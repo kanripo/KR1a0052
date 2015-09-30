@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易卦爻經傳訓解
-#+DATE: 2015-09-23 09:34:38
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:55:33.946000
+#+PROPERTY: ID KR1a0052
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下
 <pb:KR1a0052_WYG_002-1a>¶
 欽定四庫全書¶
 　周易卦爻經傳訓解卷下　　宋　蔡淵　撰¶
@@ -2000,4 +2002,3 @@
 　¶
 　¶
 　周易卦爻經傳訓解卷下¶
-

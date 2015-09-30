@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周易卦爻經傳訓解
-#+DATE: 2015-09-23 09:34:38
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:55:33.901703
+#+PROPERTY: ID KR1a0052
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0052_WYG_000-1a>¶
 欽定四庫全書　　　　經部一¶
 　周易經傳訓解　　　　易𩔖¶
@@ -31,6 +33,7 @@
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 <pb:KR1a0052_WYG_000-2b>¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 原序
 <pb:KR1a0052_WYG_000-3a>¶
 欽定四庫全書¶
 周易卦爻經傳訓解原序¶
@@ -55,4 +58,3 @@
 聖人之意其于存言存象之譏庶或免焉辭有未逹改¶
 而正之誠有望於同志者開禧乙丑陽月望日建安蔡¶
 淵謹序¶
-
